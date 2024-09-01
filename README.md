@@ -8,3 +8,5 @@ Authors:
   - [Diana Vitoria Silva Barbosa](https://github.com/dsanabarb)
   - [Danilo Oliveira Andrade](https://github.com/Dandradedev)
   - [Gustavo Vilas Boas Pereira](https://github.com/gustavo-vb)
+
+✨ Thanks for visiting! and feel free to reach out! ✨
